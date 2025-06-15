@@ -1,6 +1,6 @@
 ## yo 👋 i'm uvstarr
 
-> 🧠 cybersec enjoyer · 🛠️ dev · 🕶️ privacy 
+> 🧠 cybersec enjoyer · 🛠️ dev · 🕶️ privacy ·
 > i break things, automate stuff, and keep it lowkey.
 
 ---
@@ -11,9 +11,9 @@
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![WSL](https://img.shields.io/badge/-WSL-333?style=flat&logo=windows)
+![WinDbg](https://img.shields.io/badge/-WinDbg-333?style=flat)
+![Kernel Debugging](https://img.shields.io/badge/-Kernel%20Debugging-333?style=flat)
 
 ---
 
@@ -23,6 +23,8 @@
 - automate everything  
 - never stop learning  
 - build > talk
+
+- curiosity > credentials  
 
 ---
 
